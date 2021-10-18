@@ -1,0 +1,19 @@
+.actions {
+  opacity: 0;
+}
+span {
+  margin-left: 5px;
+}
+.material-icons:hover {
+  transform: scale(1.2);
+}
+tr:hover .actions {
+  opacity: 1;
+}
+
+tbody td a {
+  color: #222;
+}
+tbody td a :hover {
+  color: #222;
+}
